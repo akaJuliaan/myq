@@ -27,7 +27,7 @@
     "remote"
   ],
   "engines": {
-    "node": ">=16"
+    "node": ">=18"
   },
   "main": "dist/index.js",
   "scripts": {
@@ -48,8 +48,8 @@
     "typescript": "5.2.2"
   },
   "dependencies": {
-    "@adobe/fetch": "^3.6.5",
+    "@adobe/fetch": "4.0.13",
     "node-html-parser": "6.1.6",
-    "pkce-challenge": "^3.0.0"
+    "pkce-challenge": "4.0.1"
   }
 }
