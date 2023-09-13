@@ -1,6 +1,6 @@
 {
   "name": "@akajuliaan/myq",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "displayName": "myQ API",
   "description": "A fork of brbeaird's commonJS fork of hjdhjd's myq implementation",
   "author": {
@@ -48,8 +48,8 @@
     "typescript": "5.2.2"
   },
   "dependencies": {
-    "@adobe/fetch": "4.0.13",
+    "@adobe/fetch": "^3.6.5",
     "node-html-parser": "6.1.6",
-    "pkce-challenge": "4.0.1"
+    "pkce-challenge": "^3.0.0"
   }
 }
