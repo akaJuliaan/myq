@@ -1,20 +1,20 @@
 {
-  "name": "@brbeaird/myq",
+  "name": "@akajuliaan/myq",
   "version": "1.0.2",
   "displayName": "myQ API",
-  "description": "A commonJS fork of hjdhjd's myq implementation",
+  "description": "A fork of brbeaird's commonJS fork of hjdhjd's myq implementation",
   "author": {
     "name": "HJD",
-    "url": "https://github.com/brbeaird"
+    "url": "https://github.com/akajuliaan"
   },
-  "homepage": "https://github.com/brbeaird/myq#readme",
+  "homepage": "https://github.com/akajuliaan/myq#readme",
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git://github.com/brbeaird/myq.git"
+    "url": "git://github.com/akajuliaan/myq.git"
   },
   "bugs": {
-    "url": "https://github.com/brbeaird/myq/issues"
+    "url": "https://github.com/akajuliaan/myq/issues"
   },
   "keywords": [
     "chamberlain",
